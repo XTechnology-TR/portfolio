@@ -21,7 +21,7 @@
     "cross-env": "^7.0.2",
     "date-fns": "^2.7.0",
     "node-sass": "^4.13.0",
-    "nuxt": "^2.13.2",
+    "nuxt": "^3.0.0",
     "prismjs": "^1.21.0"
   },
   "devDependencies": {
